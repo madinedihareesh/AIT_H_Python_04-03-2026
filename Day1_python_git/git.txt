@@ -1,0 +1,4 @@
+check git version : git --version
+config username: git config --global user.name
+config email: git config --global user.email
+clone repo: git clone 'address'
