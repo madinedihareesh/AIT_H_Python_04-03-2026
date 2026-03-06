@@ -1,0 +1,30 @@
+coding(programing) language
+program: 
+language: used to communicate or share the thoughts
+
+comuputer: 1011101110000 
+two language:
+low level: binary,Assembily,cobal(computer understandable )
+high level:(human understandable languages we can communicate with computer
+with help of compiler/interpreter)(English)
+1.Genral pupose languages: java c# (compiler)
+2.special purpose :Android,Kony,HTML 
+3.scripting:java scrpit,python (Interprtation)
+
+#three types of programing languages:
+1.compiler based : compiler the whole code at once 2k errors
+2.interpreter based:line by line java script
+3.Hibreid: java,python 
+
+paradims:
+samll peice of code from a mani
+
+data centric:
+ oop class object properties methods (java)
+functional centric:(java script)
+moduler centric:(java, java script)
+
+
+python:
+Python is a hilevel interpreted based programming languge,it multi centric language 
+and dynamically typed language,simple syntax easy read and easy to learn

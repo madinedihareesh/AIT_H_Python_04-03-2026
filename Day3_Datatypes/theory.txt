@@ -1,0 +1,10 @@
+Datatypes: Which type of data we are dealing with
+types of data types:
+1.Primitive
+scalar vales(singler) immutable
+ a.int (0-9)  (base conversitions)
+ b.float (12.59)
+ c.complex (real+imaginary) 10+3i(square root(-1))
+ d.boolen (true,false)
+ e.string 
+2.Non-primitive
